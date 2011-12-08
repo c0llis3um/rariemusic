@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
+
+    <title>Rarie Music Podcast</title>
+    <description>Djs from around the globe bringing fresh tunes</description>
+    <link>http://www.rariemusic.com</link>
+    <language>en-us</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Tue, 06 Dec 2011 00:15:00 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2011 00:15:00 -0500</pubDate>
+    <docs>http://www.rariemusic.com/rariemusic.rss</docs>
+    <webMaster>space_w6@hotmail.com</webMaster>
+    <ttl>60</ttl>
+
+    <itunes:author>joel @ rariemusic</itunes:author>
+    <itunes:subtitle>Rarie Music Podcast is a show about people with interest and love of electronic music Podcasters</itunes:subtitle>
+    <itunes:summary>Rarie Music is a show about people with enjoy in electronic music and to discover new talent around the globe. </itunes:summary>
+    <itunes:owner>
+           <itunes:name>Joel Alcantara</itunes:name>
+           <itunes:email>space_w6@hotmail.com joel alcantara</itunes:email>
+    </itunes:owner>
+
+<itunes:explicit>No</itunes:explicit>
+
+<itunes:image href="http://www.tresbesos.com/sound29/assets/images/logo.gif"/>
+    
+<itunes:category text="Podcast">
+     <itunes:category text="Music"/>
+</itunes:category>
+
+
+<item>
+<title>Jordi Riera Proton Radio Show</title>
+<link>http://www.tresbesos.com/sound29/index.php?id=47</link>
+<guid>http://www.tresbesos.com/sound29/jordiriera-proton-radio-082809.mp3</guid>
+<description> Jordi bringing us his house sounds.</description>
+<enclosure url="http://www.tresbesos.com/sound29/jordiriera-proton-radio-082809.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 07 Jul 2006 00:15:00 -0500</pubDate>
+
+<itunes:author>Joel Alcantara</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle> </itunes:subtitle>
+<itunes:summary></itunes:summary>
+<itunes:duration>00:21:18</itunes:duration>
+<itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+</channel>
+
+</rss>
+
