@@ -5,18 +5,18 @@
   <channel>
 
     <title>Rarie Music Podcast</title>
-    <description>Djs from around the globe bringing fresh tunes</description>
+    <description>Djs from around the globe bringing fresh mixes</description>
     <link>http://www.rariemusic.com</link>
     <language>en-us</language>
-    <copyright>Copyright 2011</copyright>
+    <copyright>Copyright 2012</copyright>
     <lastBuildDate>Tue, 06 Dec 2011 00:15:00 -0500</lastBuildDate>
     <pubDate>Wed, 07 Dec 2011 00:15:00 -0500</pubDate>
     <docs>http://www.rariemusic.com/rariemusic.rss</docs>
     <webMaster>space_w6@hotmail.com</webMaster>
     <ttl>60</ttl>
 
-    <itunes:author>joel @ rariemusic</itunes:author>
-    <itunes:subtitle>Rarie Music Podcast is a show about people with interest and love of electronic music Podcasters</itunes:subtitle>
+    <itunes:author>jordi @ rariemusic</itunes:author>
+    <itunes:subtitle>Rarie Music Podcast is a show about people with interest and love of electronic music</itunes:subtitle>
     <itunes:summary>Rarie Music is a show about people with enjoy in electronic music and to discover new talent around the globe. </itunes:summary>
     <itunes:owner>
            <itunes:name>Joel Alcantara</itunes:name>
@@ -25,7 +25,7 @@
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href="http://www.rariemusic.com/images/logo-podcast.gif"/>
+<itunes:image href="http://www.rariemusic.com/images/rm.jpg"/>
     
 <itunes:category text="Podcast">
      <itunes:category text="Music"/>
@@ -33,32 +33,100 @@
 
 
 <item>
-<title>Jordi Riera Proton Radio Show</title>
-<link>http://www.tresbesos.com/sound29/index.php?id=47</link>
-<guid>http://www.tresbesos.com/sound29/jordiriera-proton-radio-082809.mp3</guid>
-<description> Jordi bringing us his house sounds.</description>
-<enclosure url="http://www.tresbesos.com/sound29/jordiriera-proton-radio-082809.mp3" length="" type="audio/mpeg"/>
+<title>Jordi Riera Podcast 001</title>
+<link>http://www.rariemusic.com/podcast</link>
+<guid>http://www.nubeso.com/file/view/464/rarie-music-podcast-001-by-jordi-riera-for-the-people-i-love.mp3</guid>
+<description> Jordi Riera introducing his new record label.</description>
+<enclosure url="http://www.rariemusic.com/sets/rarie-music-podcast-001-by-jordi-riera-for-the-people-i-love.mp3" length="190091566" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Fri, 07 Jul 2006 00:15:00 -0500</pubDate>
+<pubDate>Fri, 23 Dec 2011 00:15:00 -0500</pubDate>
 
 <itunes:author>Joel Alcantara</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle> </itunes:subtitle>
+<itunes:subtitle>Rarie Music Podcast 001</itunes:subtitle>
 <itunes:summary></itunes:summary>
-<itunes:duration>00:21:18</itunes:duration>
+<itunes:duration>1:19:08</itunes:duration>
 <itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
 </item>
 
 
 
 
+<item>
+<title>Jordi Riera Podcast 002</title>
+<link>http://www.rariemusic.com/podcast</link>
+<guid>http://www.rariemusic.com/sets/rarie-music-podcast-002-by-jordi-riera-lets-get-nasty.mp3</guid>
+<description> Jordi Riera set number 2 on Rarie Music Podcast.</description>
+<enclosure url="http://www.rariemusic.com/sets/rarie-music-podcast-002-by-jordi-riera-lets-get-nasty.mp3" length="191622548" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 28 Dec 2011 00:15:00 -0500</pubDate>
+
+<itunes:author>Joel Alcantara</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Rarie Music Podcast 002</itunes:subtitle>
+<itunes:summary>Tune next time on rarie music dj guest Adrian Gaitan, subscribe on itunes, search on itunes store for rarie music podcast</itunes:summary>
+<itunes:duration>1:19:47</itunes:duration>
+<itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
+</item>
 
 
 
+<item>
+<title>Jordi Riera Podcast 003</title>
+<link>http://www.rariemusic.com/podcast</link>
+<guid>http://www.rariemusic.com/sets/rarie-music-podcast-003-by-adrian-gaitan.mp3</guid>
+<description> Andrian Gaitan on Rarie Music Podcast.</description>
+<enclosure url="http://www.rariemusic.com/sets/rarie-music-podcast-003-by-adrian-gaitan.mp3" length="179388388" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 30 Dec 2011 00:15:00 -0500</pubDate>
+
+<itunes:author>Joel Alcantara</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Rarie Music Podcast 003</itunes:subtitle>
+<itunes:summary>Tune next time on rarie music dj guest fharyde azpeitia, subscribe on itunes, search on itunes store for rarie music podcast</itunes:summary>
+<itunes:duration>1:14:41</itunes:duration>
+<itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
+</item>
+
+<item>
+<title>Jordi Riera Podcast 004</title>
+<link>http://www.rariemusic.com/podcast</link>
+<guid>http://www.rariemusic.com/sets/rarie-music-podcast-004-by-fharyde-azpeitia.mp3</guid>
+<description> Fharyde Azpeitia on Rarie Music Podcast.</description>
+<enclosure url="http://www.rariemusic.com/sets/rarie-music-podcast-004-by-fharyde-azpeitia.mp3" length="135825279" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 30 Dec 2011 00:15:00 -0500</pubDate>
+
+<itunes:author>Joel Alcantara</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Rarie Music Podcast 003</itunes:subtitle>
+<itunes:summary>Tune next time on rarie music b2b dj guest, subscribe on itunes, search on itunes store for rarie music podcast</itunes:summary>
+<itunes:duration>1:17:10</itunes:duration>
+<itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
+</item>
 
 
+<item>
+<title>Jordi Riera Podcast 005</title>
+<link>http://www.rariemusic.com/podcast</link>
+<guid>http://www.rariemusic.com/sets/rarie-music-podcast-005-by-jordi-riera-&-luis-muniz.mp3</guid>
+<description> B2B Jordi Riera & Luis Muniz on Rarie Music Podcast.</description>
+<enclosure url="http://www.rariemusic.com/sets/rarie-music-podcast-005-by-jordi-riera-&-luis-muniz.mp3" length="189672516" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 30 Dec 2011 00:15:00 -0500</pubDate>
 
+<itunes:author>Joel Alcantara</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Rarie Music Podcast 003</itunes:subtitle>
+<itunes:summary>Subscribe on itunes, search on itunes store for rarie music podcast</itunes:summary>
+<itunes:duration>1:18:58</itunes:duration>
+<itunes:keywords>rarie, podcast, podcasting, podcaster, music, techno, house, techhouse </itunes:keywords>
+</item>
 
 
 </channel>
